@@ -56,7 +56,11 @@ I'm an aspiring AI/ML engineer with hands-on experience building **real-time, de
 ---
 
 ### 🔭 Currently Learning
-- YOLOv8 for object detection  
+- YOLOv8 for object detection
+
+- ![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepkumar3123&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumar3123&layout=compact)
+
 - Edge deployment with OpenVINO + Jetson Nano  
 - Scalable ML workflows using Docker + Flask
 
